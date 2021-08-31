@@ -996,4 +996,167 @@
       "Graduated": 2018
     }
   },
+  {
+    "ID": 23,
+    "Organisation": [
+      {
+        "OrganisationName": "Dialog",
+        "Role": "Computer Systems Analyst"
+      },
+      {
+        "OrganisationName": "Tech Mahindra",
+        "Role": "Computer Network Architect"
+      }
+    ],
+    "Skills": [
+      "C+",
+      "Data Modelling",
+      "Network Security",
+      "Attention to detail",
+      "VMware"
+    ],
+    "YearOfExperience": 7,
+    "MeetingPlace": [
+      {
+        "PlaceOfMeeting": "Queensland University of Technology",
+        "Date": "08-10-2019",
+        "Event": "Career Day"
+      },
+    ],
+    "OverallImpression": "Exceptional",
+    "DOB": "12-12-1993",
+    "email": "tiffanydavis@email.com",
+    "Certificate": [
+      "Cisco Certified Network Professional",
+      "Cisco Certified Design Associate",
+      "Cisco Certified Design Expert",
+      "Cisco Certified Entry Networking Technician"
+    ],
+    "MutualConnection": null,
+    "SocialNetworks": {
+      "Facebook": "Tiffany Davis",
+      "Instagram": "tiff_davis",
+      "Twitter": "tiffanydavis",
+    },
+    "name": "Tiffany Davis",
+    "Languages": [
+      "English"
+    ],
+    "Interests": [
+      "Networking",
+      "Information Systems Architecture"
+    ],
+    "Education": {
+      "University": "Queensland University of Technology",
+      "GPA": 5.9,
+      "Graduated": 2015
+    }
+  },
+      "ID": 24,
+    "Organisation": [
+      {
+        "OrganisationName": "Griffith University",
+        "Role": "Lecturer"
+      },
+      {
+        "OrganisationName": "Commonwealth Bank",
+        "Role": "Data Analyst"
+      }
+    ],
+    "Skills": [
+      "Data Visualization",
+      "Python-Statistical Programming",
+      "Critical Thinking",
+      "Microsoft Excel",
+      "Structured Query Language"
+    ],
+    "YearOfExperience": 7,
+    "MeetingPlace": [
+      {
+        "PlaceOfMeeting": "Griffith University",
+        "Date": "12-04-2018",
+        "Event": null,
+      },
+    ],
+    "OverallImpression": "Experienced",
+    "DOB": "14-02-1992",
+    "email": "jacobleroux@email.com",
+    "Certificate": [
+      "Bachelors of Applied Information Technology",
+      "Bachelors of Applied Cloud Technology",
+    ],
+    "MutualConnection": [
+      "Sarah",
+      "Nathan",
+      "Andrea"
+    ],
+    "SocialNetworks": {
+      "Facebook": "Jacob le Roux",
+      "Instagram": "jleroux",
+      "Twitter": "Jake_le_Roux",
+    },
+    "name": "Jacob le Roux",
+    "Languages": [
+      "English",
+      "Afrikaans"
+    ],
+    "Interests": [
+      "Data Analysis",
+      "Project Management"
+    ],
+    "Education": {
+      "University": "Griffith University",
+      "GPA": 5.7,
+      "Graduated": 2014
+    }
+  },
+      "ID": 25,
+    "Organisation": [
+      {
+        "OrganisationName": "Nvidia Corp",
+        "Role": "AI Developer"
+      },
+    ],
+    "Skills": [
+      "Linear algebra and statistics",
+      "Signal processing techniques",
+      "Neural network architectures",
+      "Algorithms and Frameworks",
+      "AI Developer"
+    ],
+    "YearOfExperience": 1,
+    "MeetingPlace": [
+      {
+        "PlaceOfMeeting": "Queensland University of Technology",
+        "Date": "28-02-2019",
+        "Event": "Course Class",
+      },
+    ],
+    "OverallImpression": "Entusiastic",
+    "DOB": "02-09-2000",
+    "email": "chrisfuller@email.com",
+    "Certificate": [
+      "Machine Learning",
+      "IBM Applied AI proffesional",
+    ],
+    "MutualConnection": null,
+    "SocialNetworks": {
+      "Facebook": "Chris Fuller",
+      "Instagram": "fuller_chris",
+      "Twitter": "fuller_c",
+    },
+    "name": "Chris Fuller",
+    "Languages": [
+      "English",
+    ],
+    "Interests": [
+      "Data Mining and Analysis",
+      "Machine Learning"
+    ],
+    "Education": {
+      "University": "Queensland University of Technology",
+      "GPA": 6.0,
+      "Graduated": 2020
+    }
+  },
 ]
