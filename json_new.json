@@ -15,7 +15,7 @@
     "YearOfExperience": 2,
     "MeetingPlace": [
       {
-        "PlaceOfMeeting": "Queensland University of Technology University",
+        "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "21-02-2018",
         "Event": "Database Tutorial"
       },
@@ -52,7 +52,7 @@
     "Skills": ["C+", "MongoDB", "NodeJS"],
     "YearOfExperience": 2,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "01-03-2017",
       "Event": "Database Tutorial"
     },
@@ -83,7 +83,7 @@
     "Skills": ["React", "JavaScript", "NodeJS"],
     "YearOfExperience": 1,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21/08/2020",
       "Event": "Web Computing Class"
     },
@@ -114,7 +114,7 @@
     "Skills": ["Python", "JavaScript", "Databases"],
     "YearOfExperience": 2,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21/09/2020",
       "Event": "Social Sports"
     },
@@ -144,7 +144,7 @@
     "Skills": ["C+", "Java"],
     "YearOfExperience": 3,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "30-08-2019",
       "Event": "Career Suggestion"
     },
@@ -236,7 +236,7 @@
     "Skills": ["C+", "C#", "Python"],
     "YearOfExperience": 2,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21-02-2018",
       "Event": "Database Tutorial"
     },
@@ -310,7 +310,7 @@
     "Skills": ["C+", "C#", "HTML"],
     "YearOfExperience": 5,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "30-08-2021",
       "Event": "HTML Tutoria;"
     },
@@ -385,7 +385,7 @@
     "YearOfExperience": 2,
     "MeetingPlace": [
       {
-        "PlaceOfMeeting": "Queensland University of Technology University",
+        "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "21-02-2018",
         "Event": "Database Tutorial"
       },
@@ -990,7 +990,7 @@
     "Skills": ["Python", "MongoDB"],
     "YearsOfExperience": 1,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-04-2020",
       "Event": "Code Network"
     },
@@ -1020,7 +1020,7 @@
     "Skills": ["JavaScript", "Networks"],
     "YearsOfExperience": 2,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-04-2018",
       "Event": "Tutorial"
     },
@@ -1050,7 +1050,7 @@
     "Skills": ["JavaScript", "MongoDB", "React"],
     "YearsOfExperience": 2,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-08-2019",
       "Event": "Code Network"
     },
@@ -1080,7 +1080,7 @@
     "Skills": ["Python", "MongoDB"],
     "YearsOfExperience": 10,
     "MeetingPlace": {
-      "PlaceOfMeeting": "Queensland University of Technology University",
+      "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-11-2020",
       "Event": "Lecture"
     },
