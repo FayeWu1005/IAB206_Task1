@@ -45,10 +45,12 @@
   },
   {
     "ID": 2,
-    "Organisation": {
+    "Organisation": [
+    {
       "OrganisationName": "Google",
       "Role": "Junior Software Engineer"
-    },
+    }
+    ],
     "Skills": ["C+", "MongoDB", "NodeJS"],
     "YearOfExperience": 2,
     "MeetingPlace": {
@@ -76,10 +78,12 @@
   },
   {
     "ID": 3,
-    "Organisation": {
+    "Organisation": [
+    {
       "OrganisationName": "Rex Engineering",
       "Role": "Junior Front End Developer"
-    },
+    }
+    ],
     "Skills": ["React", "JavaScript", "NodeJS"],
     "YearOfExperience": 1,
     "MeetingPlace": {
@@ -107,10 +111,12 @@
   },
   {
     "ID": 4,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "CloudWize",
       "Role": "Backend Developer"
-    },
+      }
+    ],
     "Skills": ["Python", "JavaScript", "Databases"],
     "YearOfExperience": 2,
     "MeetingPlace": {
@@ -137,10 +143,12 @@
   },
   {
     "ID": 5,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Queensland University of Technology",
       "Role": "Tutor"
-    },
+      }
+    ],
     "Skills": ["C+", "Java"],
     "YearOfExperience": 3,
     "MeetingPlace": {
@@ -168,10 +176,12 @@
   },
   {
     "ID": 6,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "The University of Queensland",
       "Role": "Lecturer"
-    },
+      }
+    ],
     "Skills": ["Java", "HTML"],
     "YearOfExperience": 3,
     "MeetingPlace": {
@@ -199,10 +209,12 @@
   },
   {
     "ID": 7,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Queensland University of Technology",
       "Role": "Student Welfare"
-    },
+      }
+    ],
     "Skills": ["Python", "CSS"],
     "YearOfExperience": 4,
     "MeetingPlace": {
@@ -229,10 +241,12 @@
   },
   {
     "ID": 8,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "The University of Queensland",
       "Role": "Software Engineer"
-    },
+      }
+    ],
     "Skills": ["C+", "C#", "Python"],
     "YearOfExperience": 2,
     "MeetingPlace": {
@@ -504,10 +518,12 @@
   },
   {
     "ID": 15,
-    "Organisation": {
+    "Organisation": [
+    {
       "OrganisationName": "ThinkLum",
       "Role": "Tutor"
-    },
+    }
+    ],
     "Skills": [
       "Java",
       "Python",
@@ -983,10 +999,12 @@
   },
   {
     "ID": 26,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Suncorp",
       "Role": "IT Help Desk"
-    },
+      }
+    ],
     "Skills": ["Python", "MongoDB"],
     "YearsOfExperience": 1,
     "MeetingPlace": {
@@ -1013,10 +1031,12 @@
   },
   {
     "ID": 27,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Woolworth Inc",
       "Role": "Server Management"
-    },
+      }
+    ],
     "Skills": ["JavaScript", "Networks"],
     "YearsOfExperience": 2,
     "MeetingPlace": {
@@ -1043,10 +1063,12 @@
   },
   {
     "ID": 28,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Logan Law",
       "Role": "Website Management"
-    },
+      }
+    ],
     "Skills": ["JavaScript", "MongoDB", "React"],
     "YearsOfExperience": 2,
     "MeetingPlace": {
@@ -1073,10 +1095,12 @@
   },
   {
     "ID": 29,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Griffith",
       "Role": "Lecturer"
-    },
+      }
+    ],
     "Skills": ["Python", "MongoDB"],
     "YearsOfExperience": 10,
     "MeetingPlace": {
@@ -1103,10 +1127,12 @@
   },
   {
     "ID": 30,
-    "Organisation": {
+    "Organisation": [
+      {
       "OrganisationName": "Spotify",
       "Role": "Backend Development"
-    },
+      }
+    ],
     "Skills": ["Python", "MongoDB"],
     "YearsOfExperience": 1,
     "MeetingPlace": {
