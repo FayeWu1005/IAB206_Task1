@@ -4,11 +4,15 @@
     "Organisation": [
       {
         "OrganisationName": "Queensland University of Technology",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "01-03-2019",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "The University of Queensland",
-        "Role": "Junior Frontend Developer"
+        "Role": "Junior Frontend Developer",
+        "StartDate": "10-05-2018",
+        "EndDate": "11-12-2018"
       }
     ],
     "Skills": ["C+", "C#", "Python"],
@@ -46,12 +50,14 @@
   {
     "ID": 2,
     "Organisation": [
-    {
-      "OrganisationName": "Google",
-      "Role": "Junior Software Engineer"
-    }
+      {
+        "OrganisationName": "Google",
+        "Role": "Junior Software Engineer",
+        "StartDate": "18-06-2020",
+        "EndDate": "current"
+      }
     ],
-    "Skills": ["C+", "MongoDB", "NodeJS"],
+    "Skills": ["C+", "MongoDB", "NodeJS", "Mordern data management"],
     "YearOfExperience": 2,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
@@ -73,16 +79,18 @@
     "Education": {
       "University": "Queensland University of Technology",
       "GPA": 6.6,
-      "Graduated": 2018
+      "Graduated": 2020
     }
   },
   {
     "ID": 3,
     "Organisation": [
-    {
-      "OrganisationName": "Rex Engineering",
-      "Role": "Junior Front End Developer"
-    }
+      {
+        "OrganisationName": "Rex Engineering",
+        "Role": "Junior Front End Developer",
+        "StartDate": "05-04-2020",
+        "EndDate": "current"
+      }
     ],
     "Skills": ["React", "JavaScript", "NodeJS"],
     "YearOfExperience": 1,
@@ -113,11 +121,19 @@
     "ID": 4,
     "Organisation": [
       {
-      "OrganisationName": "CloudWize",
-      "Role": "Backend Developer"
+        "OrganisationName": "CloudWize",
+        "Role": "Backend Developer",
+        "StartDate": "01-10-2019",
+        "EndDate": "current"
       }
     ],
-    "Skills": ["Python", "JavaScript", "Databases"],
+    "Skills": [
+      "Python",
+      "JavaScript",
+      "Databases",
+      "Mordern data management",
+      "Process mining"
+    ],
     "YearOfExperience": 2,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
@@ -138,15 +154,17 @@
     "Education": {
       "University": "Queensland University of Technology",
       "GPA": 6.6,
-      "Graduated": 2018
+      "Graduated": 2019
     }
   },
   {
     "ID": 5,
     "Organisation": [
       {
-      "OrganisationName": "Queensland University of Technology",
-      "Role": "Tutor"
+        "OrganisationName": "Queensland University of Technology",
+        "Role": "Tutor",
+        "StartDate": "03-08-2017",
+        "EndDate": "current"
       }
     ],
     "Skills": ["C+", "Java"],
@@ -178,12 +196,14 @@
     "ID": 6,
     "Organisation": [
       {
-      "OrganisationName": "The University of Queensland",
-      "Role": "Lecturer"
+        "OrganisationName": "The University of Queensland",
+        "Role": "Lecturer",
+        "StartDate": "10-07-2020",
+        "EndDate": "current"
       }
     ],
     "Skills": ["Java", "HTML"],
-    "YearOfExperience": 3,
+    "YearOfExperience": 2,
     "MeetingPlace": {
       "PlaceOfMeeting": "The University of Queensland",
       "Date": "16-04-2019",
@@ -211,8 +231,10 @@
     "ID": 7,
     "Organisation": [
       {
-      "OrganisationName": "Queensland University of Technology",
-      "Role": "Student Welfare"
+        "OrganisationName": "Queensland University of Technology",
+        "Role": "Student Welfare",
+        "StartDate": "11-10-2019",
+        "EndDate": "01-05-2020"
       }
     ],
     "Skills": ["Python", "CSS"],
@@ -243,8 +265,10 @@
     "ID": 8,
     "Organisation": [
       {
-      "OrganisationName": "The University of Queensland",
-      "Role": "Software Engineer"
+        "OrganisationName": "The University of Queensland",
+        "Role": "Software Engineer",
+        "StartDate": "20-06-2019",
+        "EndDate": "12-12-2019"
       }
     ],
     "Skills": ["C+", "C#", "Python"],
@@ -277,15 +301,19 @@
     "Organisation": [
       {
         "OrganisationName": "The University of Queensland",
-        "Role": "Lecturer"
+        "Role": "Lecturer",
+        "StartDate": "21-02-2018",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Optus",
-        "Role": "Sales"
+        "Role": "Sales",
+        "StartDate": "28-03-2016",
+        "EndDate": "30-09-2017"
       }
     ],
     "Skills": ["C+", "C#", "Marketing"],
-    "YearOfExperience": 5,
+    "YearOfExperience": 10,
     "MeetingPlace": {
       "PlaceOfMeeting": "The University of Queensland",
       "Date": "30-08-2021",
@@ -314,11 +342,15 @@
     "Organisation": [
       {
         "OrganisationName": "Queensland University of Technology",
-        "Role": "Lecturer"
+        "Role": "Lecturer",
+        "StartDate": "28-06-2020",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Optus",
-        "Role": "Sales"
+        "Role": "Sales",
+        "StartDate": "21-10-2017",
+        "EndDate": "01-02-2020"
       }
     ],
     "Skills": ["C+", "C#", "HTML"],
@@ -351,14 +383,18 @@
     "Organisation": [
       {
         "OrganisationName": "Queensland University of Technology",
-        "Role": "Tutor"
+        "Role": "Lecturer",
+        "StartDate": "01-03-2021",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Microsoft",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "20-11-2017",
+        "EndDate": "10-12-2020"
       }
     ],
-    "Skills": ["C+", "C#", "Python"],
+    "Skills": ["C+", "C#", "Python", "Mordern data management", "Automation"],
     "YearOfExperience": 4,
     "MeetingPlace": {
       "PlaceOfMeeting": "Microsoft Company",
@@ -388,15 +424,19 @@
     "Organisation": [
       {
         "OrganisationName": "Queensland University of Technology",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "20-11-2018",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "The University of Queensland",
-        "Role": "Junior Frontend Developer"
+        "Role": "Junior Frontend Developer",
+        "StartDate": "28-03-2019",
+        "EndDate": "10-03-2017"
       }
     ],
     "Skills": ["C+", "C#", "Python"],
-    "YearOfExperience": 2,
+    "YearOfExperience": 9,
     "MeetingPlace": [
       {
         "PlaceOfMeeting": "Queensland University of Technology",
@@ -424,7 +464,7 @@
     "Education": {
       "University": "Queensland University of Technology",
       "GPA": 5.5,
-      "Graduated": 2019
+      "Graduated": 2010
     }
   },
   {
@@ -432,11 +472,15 @@
     "Organisation": [
       {
         "OrganisationName": "PRA",
-        "Role": "Account Manager"
+        "Role": "Account Manager",
+        "StartDate": "16-08-2015",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Satcom Global",
-        "Role": "Marketing & Administration Manager"
+        "Role": "Marketing & Administration Manager",
+        "StartDate": "01-09-2013",
+        "EndDate": "01-02-2015"
       }
     ],
     "Skills": ["Product Management", "Business Strategy", "IT Recruitment"],
@@ -469,11 +513,15 @@
     "Organisation": [
       {
         "OrganisationName": "NAB",
-        "Role": "Security Intern"
+        "Role": "Security Intern",
+        "StartDate": "20-11-2020",
+        "EndDate": "10-02-2021"
       },
       {
         "OrganisationName": "Barry.Nilsson",
-        "Role": "Law Clerk"
+        "Role": "Law Clerk",
+        "StartDate": "01-03-2019",
+        "EndDate": "12-10-2019"
       }
     ],
     "Skills": [
@@ -519,10 +567,12 @@
   {
     "ID": 15,
     "Organisation": [
-    {
-      "OrganisationName": "ThinkLum",
-      "Role": "Tutor"
-    }
+      {
+        "OrganisationName": "ThinkLum",
+        "Role": "Tutor",
+        "StartDate": "22-03-2020",
+        "EndDate": "current"
+      }
     ],
     "Skills": [
       "Java",
@@ -562,14 +612,18 @@
     "Organisation": [
       {
         "OrganisationName": "Canva",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "15-06-2021",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Royal Australia Air Force",
-        "Role": "Operation Officer"
+        "Role": "Operation Officer",
+        "StartDate": "01-07-2015",
+        "EndDate": "09-08-2016"
       }
     ],
-    "Skills": ["Python", "React", "SQL", "TypeScript"],
+    "Skills": ["Python", "React", "SQL", "TypeScript", "Automation"],
     "YearOfExperience": 3,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point Campus",
@@ -609,14 +663,18 @@
     "Organisation": [
       {
         "OrganisationName": "Queensland University of Technology",
-        "Role": "STIMulate Volunteer"
+        "Role": "STIMulate Volunteer",
+        "StartDate": "01-03-2020",
+        "EndDate": "01-11-2020"
       },
       {
         "OrganisationName": "Suncorp",
-        "Role": "IT Intern"
+        "Role": "IT Intern",
+        "StartDate": "12-11-2019",
+        "EndDate": "20-02-2020"
       }
     ],
-    "Skills": ["C#", "Java", "Scrum"],
+    "Skills": ["C#", "Java", "Scrum", "Process mining", "Databases"],
     "YearOfExperience": 2,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point campus Library",
@@ -646,14 +704,24 @@
     "Organisation": [
       {
         "OrganisationName": "Amor Group",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "20-03-2019",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Huckleberry Agency",
-        "Role": "Frontend Developer"
+        "Role": "Frontend Developer",
+        "StartDate": "01-12-2013",
+        "EndDate": "10-11-2018"
       }
     ],
-    "Skills": ["Web Development", ".Net", "Git", "Public Speaking"],
+    "Skills": [
+      "Web Development",
+      ".Net",
+      "Git",
+      "Public Speaking",
+      "Databases"
+    ],
     "YearOfExperience": 6,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point",
@@ -683,11 +751,15 @@
     "Organisation": [
       {
         "OrganisationName": "Allianz Insurance",
-        "Role": "IT Project Manager"
+        "Role": "IT Project Manager",
+        "StartDate": "01-10-2020",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Telstra",
-        "Role": "IT Project Manager"
+        "Role": "IT Project Manager",
+        "StartDate": "26-02-2017",
+        "EndDate": "31-10-2019"
       }
     ],
     "Skills": [
@@ -733,14 +805,26 @@
     "Organisation": [
       {
         "OrganisationName": "Amazon Australia",
-        "Role": "Database Manager"
+        "Role": "Database Manager",
+        "StartDate": "01-08-2019",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Datahelix",
-        "Role": "Database Administrator"
+        "Role": "Database Administrator",
+        "StartDate": "01-06-2018",
+        "EndDate": "17-04-2019"
       }
     ],
-    "Skills": ["MySQL", "MongoDB", "Python", "Redis", "Microsoft SQL"],
+    "Skills": [
+      "MySQL",
+      "MongoDB",
+      "Python",
+      "Redis",
+      "Microsoft SQL",
+      "Automation",
+      "Databases"
+    ],
     "YearOfExperience": 5,
     "MeetingPlace": [
       {
@@ -782,7 +866,9 @@
     "Organisation": [
       {
         "OrganisationName": "Avantia Cyber Security",
-        "Role": "Security Software Developer"
+        "Role": "Security Software Developer",
+        "StartDate": "01-03-2021",
+        "EndDate": "current"
       }
     ],
     "Skills": ["Information Security", "Cloud Security", "Python", "C++", "C#"],
@@ -821,7 +907,9 @@
     "Organisation": [
       {
         "OrganisationName": "Today Software",
-        "Role": "Software Engineer"
+        "Role": "Software Engineer",
+        "StartDate": "24-08-2019",
+        "EndDate": "current"
       }
     ],
     "Skills": ["HTML", "PMP", "JavaScript", "C++", "C#"],
@@ -860,11 +948,15 @@
     "Organisation": [
       {
         "OrganisationName": "Dialog",
-        "Role": "Computer Systems Analyst"
+        "Role": "Computer Systems Analyst",
+        "StartDate": "01-03-2017",
+        "EndDate": "12-11-2020"
       },
       {
         "OrganisationName": "Tech Mahindra",
-        "Role": "Computer Network Architect"
+        "Role": "Computer Network Architect",
+        "StartDate": "01-03-2016",
+        "EndDate": "10-09-2016"
       }
     ],
     "Skills": [
@@ -874,7 +966,7 @@
       "Attention to detail",
       "VMware"
     ],
-    "YearOfExperience": 7,
+    "YearOfExperience": 5,
     "MeetingPlace": [
       {
         "PlaceOfMeeting": "Queensland University of Technology",
@@ -911,11 +1003,15 @@
     "Organisation": [
       {
         "OrganisationName": "Griffith University",
-        "Role": "Lecturer"
+        "Role": "Lecturer",
+        "StartDate": "20-06-2019",
+        "EndDate": "current"
       },
       {
         "OrganisationName": "Commonwealth Bank",
-        "Role": "Data Analyst"
+        "Role": "Data Analyst",
+        "StartDate": "01-03-2019",
+        "EndDate": "12-05-2015"
       }
     ],
     "Skills": [
@@ -925,7 +1021,7 @@
       "Microsoft Excel",
       "Structured Query Language"
     ],
-    "YearOfExperience": 7,
+    "YearOfExperience": 5,
     "MeetingPlace": [
       {
         "PlaceOfMeeting": "Griffith University",
@@ -960,7 +1056,9 @@
     "Organisation": [
       {
         "OrganisationName": "Nvidia Corp",
-        "Role": "AI Developer"
+        "Role": "AI Developer",
+        "StartDate": "01-11-2020",
+        "EndDate": "current"
       }
     ],
     "Skills": [
@@ -968,7 +1066,8 @@
       "Signal processing techniques",
       "Neural network architectures",
       "Algorithms and Frameworks",
-      "AI Developer"
+      "AI Developer",
+      "Automation"
     ],
     "YearOfExperience": 1,
     "MeetingPlace": [
@@ -1001,11 +1100,13 @@
     "ID": 26,
     "Organisation": [
       {
-      "OrganisationName": "Suncorp",
-      "Role": "IT Help Desk"
+        "OrganisationName": "Suncorp",
+        "Role": "IT Help Desk",
+        "StartDate": "14-05-2021",
+        "EndDate": "current"
       }
     ],
-    "Skills": ["Python", "MongoDB"],
+    "Skills": ["Python", "MongoDB", "Databases"],
     "YearsOfExperience": 1,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
@@ -1033,11 +1134,13 @@
     "ID": 27,
     "Organisation": [
       {
-      "OrganisationName": "Woolworth Inc",
-      "Role": "Server Management"
+        "OrganisationName": "Woolworth Inc",
+        "Role": "Server Management",
+        "StartDate": "21-02-2021",
+        "EndDate": "current"
       }
     ],
-    "Skills": ["JavaScript", "Networks"],
+    "Skills": ["JavaScript", "Networks", "Python"],
     "YearsOfExperience": 2,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
@@ -1065,8 +1168,10 @@
     "ID": 28,
     "Organisation": [
       {
-      "OrganisationName": "Logan Law",
-      "Role": "Website Management"
+        "OrganisationName": "Logan Law",
+        "Role": "Website Management",
+        "StartDate": "16-11-2019",
+        "EndDate": "current"
       }
     ],
     "Skills": ["JavaScript", "MongoDB", "React"],
@@ -1097,11 +1202,20 @@
     "ID": 29,
     "Organisation": [
       {
-      "OrganisationName": "Griffith",
-      "Role": "Lecturer"
+        "OrganisationName": "Griffith",
+        "Role": "Lecturer",
+        "StartDate": "01-06-2001",
+        "EndDate": "current"
       }
     ],
-    "Skills": ["Python", "MongoDB"],
+    "Skills": [
+      "Python",
+      "MongoDB",
+      "Java",
+      "Process mining",
+      "Automation",
+      "C++"
+    ],
     "YearsOfExperience": 10,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
@@ -1129,11 +1243,13 @@
     "ID": 30,
     "Organisation": [
       {
-      "OrganisationName": "Spotify",
-      "Role": "Backend Development"
+        "OrganisationName": "Spotify",
+        "Role": "Backend Development",
+        "StartDate": "01-04-2021",
+        "EndDate": "current"
       }
     ],
-    "Skills": ["Python", "MongoDB"],
+    "Skills": ["Python", "MongoDB", "MySQL"],
     "YearsOfExperience": 1,
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
