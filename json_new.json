@@ -21,6 +21,7 @@
       {
         "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "21-02-2018",
+        "Time": "01:00 PM",
         "Event": "Database Tutorial"
       },
       {
@@ -62,6 +63,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "01-03-2017",
+      "Time": "03:00 PM",
       "Event": "Database Tutorial"
     },
     "OverallImpression": "Good",
@@ -97,6 +99,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21/08/2020",
+      "Time": "01:00 PM",
       "Event": "Web Computing Class"
     },
     "OverallImpression": "Good",
@@ -138,6 +141,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21/09/2020",
+      "Time": "01:00 PM",
       "Event": "Social Sports"
     },
     "OverallImpression": "Good",
@@ -172,6 +176,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "30-08-2019",
+      "Time": "09:00 AM",
       "Event": "Career Suggestion"
     },
     "OverallImpression": "Good",
@@ -207,6 +212,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "The University of Queensland",
       "Date": "16-04-2019",
+      "Time": "02:00 PM",
       "Event": "Career Suggestion"
     },
     "OverallImpression": "Normal",
@@ -242,6 +248,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Starbarks",
       "Date": "13-05-2020",
+      "Time": "01:00 PM",
       "Event": "Tutorial"
     },
     "OverallImpression": "Normal",
@@ -276,6 +283,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "21-02-2018",
+      "Time": "10:00 AM",
       "Event": "Database Tutorial"
     },
     "OverallImpression": "Good",
@@ -317,6 +325,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "The University of Queensland",
       "Date": "30-08-2021",
+      "Time": "03:00 PM",
       "Event": "Career Suggestion"
     },
     "OverallImpression": "Good",
@@ -358,6 +367,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "30-08-2021",
+      "Time": 08:00 PM",
       "Event": "HTML Tutoria;"
     },
     "OverallImpression": "Normal",
@@ -399,6 +409,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Microsoft Company",
       "Date": "24-08-2021",
+      "Time": "01:00 PM",
       "Event": "Career Suggestion"
     },
     "OverallImpression": "Good",
@@ -441,6 +452,7 @@
       {
         "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "21-02-2018",
+        "Time": "01:00 PM",
         "Event": "Database Tutorial"
       },
       {
@@ -488,6 +500,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "15-09-2020",
+      "Time": "04:00 PM",
       "Event": "Summer vacation event"
     },
     "OverallImpression": "Good",
@@ -534,6 +547,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point Campus",
       "Date": "01-10-2020",
+      "Time": "10:00 AM",
       "Event": null
     },
     "OverallImpression": "Average",
@@ -587,6 +601,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point campus S block",
       "Date": "15-03-2021",
+      "Time": "08:00 AM",
       "Event": "IAB206 tutorial"
     },
     "OverallImpression": "Good",
@@ -628,6 +643,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point Campus",
       "Date": "15-05-2021",
+      "Time": "09:00 PM",
       "Event": "Career Fair"
     },
     "OverallImpression": "Good",
@@ -679,6 +695,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point campus Library",
       "Date": "29-05-2020",
+      "Time": "01:00 PM",
       "Event": "STIMulate"
     },
     "OverallImpression": "Excellent",
@@ -726,6 +743,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology Garden Point",
       "Date": "03-09-2019",
+      "Time": "11:00 AM",
       "Event": "Career Fair"
     },
     "OverallImpression": "Good",
@@ -774,6 +792,7 @@
       {
         "PlaceOfMeeting": "Brisbane Convention & Exhibition Centre",
         "Date": "08-09-2020",
+        "Time": "01:00 PM",
         "Event": "Telstra Expo"
       }
     ],
@@ -830,6 +849,7 @@
       {
         "PlaceOfMeeting": "University of Queensland",
         "Date": "13-04-2019",
+        "Time": "01:00 PM",
         "Event": null
       }
     ],
@@ -877,6 +897,7 @@
       {
         "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "10-03-2018",
+        "Time": "04:00 PM",
         "Event": "Personal Lunch"
       }
     ],
@@ -918,6 +939,7 @@
       {
         "PlaceOfMeeting": "University of Queensland",
         "Date": "23-11-2017",
+        "Time": "09:00 AM",
         "Event": "Social Gathering"
       }
     ],
@@ -971,6 +993,7 @@
       {
         "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "08-10-2019",
+        "Time": "09:00 AM",
         "Event": "Career Day"
       }
     ],
@@ -1026,6 +1049,7 @@
       {
         "PlaceOfMeeting": "Griffith University",
         "Date": "12-04-2018",
+        "Time": "01:00 PM",
         "Event": null
       }
     ],
@@ -1074,6 +1098,7 @@
       {
         "PlaceOfMeeting": "Queensland University of Technology",
         "Date": "28-02-2019",
+        "Time": "02:00 PM",
         "Event": "Course Class"
       }
     ],
@@ -1111,6 +1136,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-04-2020",
+      "Time": "01:00 PM",
       "Event": "Code Network"
     },
     "OverallImpression": "Good",
@@ -1145,6 +1171,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-04-2018",
+      "Time": "01:00 PM",
       "Event": "Tutorial"
     },
     "OverallImpression": "Good",
@@ -1179,6 +1206,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-08-2019",
+      "Time": "10:00 AM",
       "Event": "Code Network"
     },
     "OverallImpression": "Good",
@@ -1220,6 +1248,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-11-2020",
+      "Time": "01:00 PM",
       "Event": "Lecture"
     },
     "OverallImpression": "Good",
@@ -1254,6 +1283,7 @@
     "MeetingPlace": {
       "PlaceOfMeeting": "Queensland University of Technology",
       "Date": "12-04-2019",
+      "Time": "03:00 PM",
       "Event": "Code Network"
     },
     "OverallImpression": "Good",
